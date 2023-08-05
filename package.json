@@ -1,0 +1,11 @@
+{
+  "name": "imageApp",
+  "version": "1",
+  "main": "app.js",
+  "repository": "git@github.com:kachurovskiyp/imageApp.git",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "jimp": "^0.22.10"
+  }
+}
